@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title> Advanced HTML5 Elements and Forms</title>
+        </head>
+        <body>
+            <h1>HTML Lists</h1>
+            <h3>Ordered Lists</h3>
+            <ol type="i" start="1">
+                <li>Nairobi County</li>
+                <li>Kakamega County</li>
+                <li>Homabay County</li>
+                <li>Trans Nzoia County</li>
+                <li>Marsabit County</li>
+            <h1>HTML Images</h1>
+            <img src="Beach.jpg" alt="Image of a beach shore" width="350" height="350">
+            <h1>HTML Tables</h1>
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Address</th>
+                        <th>Mobile</th>
+                        <th>Email</th>
+                        <th>Country</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>George Asadhi</td>
+                        <td>P.O. Box 210 Kendu Bay</td>
+                        <td>+254710297179</td>
+                        <td>asadhi@students.uonbi.ac.ke</td>
+                        <td>Kenya</td>
+                    </tr>
+                    <tr>
+                            <td>Clare Arema</td>
+                            <td>P.O. Box 11309 Kakamega</td>
+                            <td>+254710250817</td>
+                            <td>arema@students.uonbi.ac.ke</td>
+                            <td>Kenya</td> 
+                    </tr>
+                            <td>Brighton Omondi</td>
+                            <td>P.O. Box 456 Rongo</td>
+                            <td>+254706275876</td>
+                            <td>bayopython@gmail.com</td>
+                            <td>Kenya</td>
+                        </tr>
+                        <td>Lokho Roba</td>
+                        <td>P.O. Box 11756 Turgen</td>
+                        <td>+254713567432</td>
+                        <td>lokhomalicha@gmail.com</td>
+                        <td>Kenya</td>
+                    </tr>
+                    <tr>
+                        <td>Suleiman Abdikadir</td>
+                            <td>P.O. Box 3704 Marsabit</td>
+                            <td>+254713869065</td>
+                            <td>slaabdikadir@gmail.com</td>
+                            <td>Kenya</td>
+                    </tr>
+                </tbody>
+            </table>
+        </body>
+    </html>
